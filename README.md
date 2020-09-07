@@ -1,2 +1,3 @@
-# Blind-Vision
-Perceptual Computing assignment
+# Zebra Vision
+!['Image'](/doc/imgs/crossing.png)  
+*Aiding the Visually Impared Navigate Zebra Crossings*
